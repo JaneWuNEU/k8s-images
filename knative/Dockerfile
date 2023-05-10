@@ -1,0 +1,1 @@
+from ghcr.io/knative/func/func:latest
